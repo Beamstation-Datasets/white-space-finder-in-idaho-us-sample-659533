@@ -1,12 +1,12 @@
 {
-  "export_job_id": "155ac275-0994-4510-8a20-192ba3933ba6",
+  "export_job_id": "122a320d-5292-4e4e-945f-b681a6ca6e34",
   "id_short": 659533,
-  "published_at": "2026-04-11T19:29:24Z",
+  "published_at": "2026-04-18T19:39:22Z",
   "repo_name": "white-space-finder-in-idaho-us-sample-659533",
   "sample_asset_name": "beamstation_659533_food_and_drink-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/659533/beamstation_659533_food_and_drink-us-id_SAMPLE_DIST.csv",
   "sample_records": 3,
-  "sample_sha256": "b28370dbbf49aaebb13349eba0c8e14ac11c76f227a423740f4525281295b160",
-  "sample_size_bytes": 27664,
-  "total_records": 36
+  "sample_sha256": "d57b2b9eaa6a23daebb01b6c56f71a2ab733fa8cb4f3b67722869f96088369f2",
+  "sample_size_bytes": 26915,
+  "total_records": 34
 }

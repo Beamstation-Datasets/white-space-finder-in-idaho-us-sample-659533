@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Idaho that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Idaho, US",
-  "export_job_id": "122a320d-5292-4e4e-945f-b681a6ca6e34",
+  "export_job_id": "3138c42d-8633-4a74-a720-00f5fb3c2093",
   "github_org": "Beamstation-Datasets",
   "id_short": 659533,
   "location_name": "Idaho",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/659533/beamstation_659533_food_and_drink-us-id_SAMPLE_DIST.csv",
   "sample_pct": 8.82,
   "sample_records": 3,
-  "sample_sha256": "d57b2b9eaa6a23daebb01b6c56f71a2ab733fa8cb4f3b67722869f96088369f2",
-  "sample_size_bytes": 26915,
+  "sample_sha256": "464340e90411b0693cc6fa167307752b5e38543cedf0e9ae3cc8ab6d0eea7b1d",
+  "sample_size_bytes": 27138,
   "total_records": 34,
-  "updated_at": "2026-04-14T22:43:33.014818+00:00"
+  "updated_at": "2026-04-22T01:50:52.347649+00:00"
 }

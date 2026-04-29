@@ -1,6 +1,6 @@
 # White Space Finder in Idaho, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `659533` |
 | Location | Idaho |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-22T01:50:52.347649+00:00 |
+| Full dataset size | 45 records |
+| Free sample size | 4 records (8.89%) |
+| Last export | 2026-04-29T04:54:39.467483+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-idaho-us-sample-659533/releases/download/sample-latest/beamstation_659533_food_and_drink-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
